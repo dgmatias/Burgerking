@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(20, 131, 94);
+
+}
+
+.rigth{
+    display: flex;
+    margin-left: 40cm;
+    justify-content: start;
+    box-sizing: content-box;
+}
+    
+.oi{
+    margin-top: auto;
+}

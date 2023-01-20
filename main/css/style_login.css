@@ -1,0 +1,78 @@
+
+
+*{
+    margin: 0; padding: 0; font-family:Tahoma; font-size:9pt;
+    background-color: #F4EBDC;
+    
+}
+.container { 
+    
+    width: 400px; 
+    height: 450px; 
+    left: 50%; 
+    margin: -130px 0 0 -210px; 
+    padding:20px;
+    position: absolute; 
+    top: 40%; 
+    border-radius: 10%;
+    
+
+
+}
+::-webkit-input-placeholder{
+color: #FFEEDE
+}
+.container form{
+   display: block;
+    
+    text-align: center;
+
+
+}
+
+.container form .input{
+   width: 200px;
+   height: 40px;
+   padding: 10px;
+   border-radius: 20px;
+   background-color: #D2C7B5;
+   border: 0;
+   
+   
+  
+}
+
+.container form .input:hover{
+color:#FFEEDE;    
+}
+
+.container form .botao{
+    width: 200px;
+    height: 40px;
+    background: #F51E01;
+	color: #fff;
+	border:whitesmoke;
+	border-radius: 20px;
+	
+	text-shadow: none;
+}
+
+.container form .botao:hover{
+    background: #F51E01;
+	
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 2x 2px 2px #eee;
+	text-shadow: none;
+
+}
+
+.container form{
+
+    padding: 0;
+}
+
+.container img{
+    width: 100%;
+   
+}
